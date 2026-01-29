@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang= "en">
+<head>
+    <link rel= "icon" href= "https://t4.ftcdn.net/jpg/04/84/51/59/360_F_484515957_BebF6osREBB9TqHVioKn8VXbMQYgSt75.jpg" type= "image/x-icon" class= "logo"/>
+<title>
+how to solve a rubix cube
+</title>
+    <meta name= "middle" content= "solve">
+    <meta charset= "UTF-8">
+<style>
+    img {
+    width: 100px;
+    border-radius: 25px;
+    margin-right: 30px; 
+    }
+    .bigsize {
+    width: 300px;
+    border-radius: 25px;
+    margin-right: 30px;
+    }
+    .tomid {
+    width: 100px;
+    border-radius: 25px;
+    margin-right: 500px;
+    }
+    h2 {
+    font-family: Comic Sans MS
+    }
+    h1 {
+    font-family: Comic Sans MS
+    }
+    hr {
+    background: orange;
+    height: 5px;
+    border: none;
+    }
+    button {
+    width: 250px;
+    background: orange;
+    height: 50px;
+    border-radius: 125px;
+    transition-duration: 0.4s;  
+    }
+    button:hover {
+    background-color: white;
+    color: orange;
+    }
+    .logo {
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    }
+</style>
+</head>
+<body background= "https://i.pinimg.com/originals/a9/bc/08/a9bc0805113ec1e08f668004a055512b.jpg" text= "FF5E33">
+    <div id= "container">
+        <div id= "header">
+    <marquee><img src="https://c.tenor.com/XRb5X2fopKEAAAAd/rubiks-cube.gif" alt="Rubiks Cube GIF - Rubiks Cube Feliks GIFs" width= "100" height= "100"/></marquee>
+    <hr>
+    <h1>HOW TO SOLVE A RUBIX CUBE
+</h1><hr>
+            </div>
+        <div id= "content">
+    <details>
+<summary><h3>BEGINNER'S METHOD
+</h3></summary>
+<h4>Learning to solve a not only increases our thinking level and analyising of situations, 
+    but it is also a means to shine in front of friends and family, and the faster one can solve it, 
+    the better and more impressive. A detailed tour through the way of solving a rubix cube for 
+    beginners is given in this website with tutorials on each step to help you learn it. A more 
+    advanced method to dolve faster will be coming soon!! So watch out. With that known, let's get
+    into the solving part.</h4>
+        </details>
+<h1><b><u><i> LET'S GO
+</h1></b></u></i><br>
+    <h2> In this tutorial, we will be trying to get a fully scrambled cube into a solved one
+    </h2><br>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Scramble.svg/1200px-Scramble.svg.png" class= "tomid" alt= "please check your internet connection"></img>
+<img src="https://www.clipartmax.com/png/middle/12-121569_transparent-arrow-right-clip-art-at-clker-right-arrow-transparent-background.png" alt="Transparent Arrow Right Clip Art At Clker - Right Arrow Transparent  Background - Free Transparent PNG Clipart Images Download" class= "tomid" alt= "please check your internet connection"/>
+<img src= "https://images.newscientist.com/wp-content/uploads/2010/08/dn19301-1_300.jpg" class= "tomid" alt= "please check your internet connection"></img><br>
+<h1><b><u><i> FIRST OF ALL, LET'S TAKE A TOUR THROUGH THE DIFFERENT PIECES AND TURNS WE WILL NEED WHILE SOLVING THE RUBIX CUBE
+</h1></b></u></i>
+<details>
+<summary><h2><b><u><i>THE CENTERS
+<h2></b></u></i></summary>
+<h3>The center pieces on all the sides are together called the center pieces, all of them are connected with the frame inside the rubix cube and are shown below:.
+</h3><br>
+<img src= "https://sites.psu.edu/phelpsinstructionset/wp-content/uploads/sites/25207/2015/04/IMG_9427.jpg" alt= "please check your internet connection"></img>
+<img src= "http://publish.illinois.edu/meganlzou/files/2015/11/Centerpieces.png" alt= "please check your internet connection"></img>
+<h4>The swapped pieces on the above cube are the center pieces and the picture adjacant to it shows the pieces being connected together with the inner framework.</h4><br></details>
+<details>
+<summary><h2><b><u><i>THE EDGES
+</h2></b></u></i></summary>
+<h3>The pieces right on top of the center(s) is the edge(s). The edge piece consists of two colors on one piece. if you have not gatten what are edge pieces by now, then the picture below will help you.</h3><br>
+<img src= "https://www.pngkey.com/png/detail/103-1036700_rubiks-cube-edge-pieces-edge-piece-on-a.png" alt= "please check your internet connection"></img>
+<h4>The pieces highlighted on the above cube are the edge pieces and are there on all faces of the cube.
+</h4><br></details>
+<details>
+<summary><h2><b><u><i>THE CORNERS
+</h2></b></u></i></summary>
+<h3>The piece to the far corner of a "face" is the corner piece. The picture below will show you and clear every doubts:.
+</h3><br>
+<img src= "https://www.pngkey.com/png/detail/103-1036700_rubiks-cube-edge-pieces-edge-piece-on-a.png" alt= "please check your internet connection"></img>
+<img src= "https://www.pngkey.com/png/detail/103-1036700_rubiks-cube-edge-pieces-edge-piece-on-a.png" alt= "please check your internet connection"></img>
+<img src= "https://images.squarespace-cdn.com/content/v1/54f2df67e4b079e94c291e4f/1427443310758-LZKYHNBEDP057J1K38K7/rubiks+cube+corner+pieces.png" alt= "please check your internet connection"></img>
+<h4>The highlighted piece in the above picture is the corner piece.
+</h4><br></details>
+<img src= "https://miro.medium.com/max/1400/1*bazGIIFM-PwIHDCzvzvWSQ.png" class= "bigsize" alt= "please check your internet connection"></img>
+<ul type= "square">
+    <li><b><i>CENTERS</b></i></li>
+    <li><b><i>EDGES</b></i></li>
+    <li><b><i>CORNERS</b></i></li></ul><br><br>
+<h1><b><u><i>NOW, LET'S SEE THE DIFFERENT TURNS YOU NEED TO LEARN TO BE ABLE TO SOLVE A RUBIX CUBE.</b></u></i></h1>
+<details>
+<summary><h2><b><u><i>THE RIGHT FACE</b></u></i></h2></summary>
+<h3>Whenever there is a turn indication that has the letter "R" in uppercase or lowercase, that means the face right to that of the face which is facing towards you is to be moved. The indication to where it should be moved, is given after the letter of the face whoch is being turned. So, to move the right face upeards, the indication in just the letter "R" and can be in both uppercase or lowercase. But to move it opposite, the indication is the letter od the face followed by a "-" or "'". The "-" "'" is called "prime". So if it is with the right face, it would be "R" to move it upwards, and "R'" or "R-" (R prime) to move it to the opposite direction.</h3>
+    </details>
+<details>
+<summary><h2><b><u><i>THE "UP" FACE</b></u></i></h2></summary>
+<h3>The rules are the same as above, but here, "U" indicates a turn of the upper face towards your left and "U-" towards the opposite direction.</h3></details>
+<details>
+<summary><h2><b><u><i>THE FRONT FACE (i.e THE FACE FACING TOWARDS YOUR FACE)</summary>
+<h3>When we come to this face, the "F" indication indicates a turn of the fron face, or the face towards your face to the right, and "F-" to the opposite direction.
+    </details>
+    <details>
+<summary><h1><b><u><i>THE "2" MOVES</b></u></i></h1><br></summary>
+<ul type= "bullet">
+    <li>All the faces which we have discussed above use these type of move. It is when the first letter of the face is followed by the number "2". For example, if the indication is "R2", then we turn the right face twice in any direction</li></ul>
+        </details>
+    <details>
+<summary><h2><b><u><i>THE BACK FACE</b></u></i></h2></summary>
+<h3>For the beginner's method, we do not need any of the back turns, except for one. And that is the "B2". As said earlier, it means that the face opposite to your front face should be turned two times in any direction.</h3><br>
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBE1miX8PYuoTafOEJymlfUlJUnEJSZgpLcw&usqp=CAU" class= "bigsize" alt= "please check your internet connection"></img>
+    </details>
+<h3><b>In the above picture, the top three moves and the 2 moves of all those faces will be used and the in the bottom, only the back face will be used.. And with that too, we will be using only the 2 move turn of the back face.</b></h3><br><br>
+    <details>
+<summary><h1><b><u><i>1. THE WHITE CROSS
+</b></u></i></h1></summary>
+<h3>The first step is to find the white center out of the six centers.</h3>
+<h3>For the next step, find all the four white edges and place it in its its correct positions (aka. on top of the white center, below he white center, and on both sides beside the white center).</h3>
+<img src= "https://inteng-storage.s3.amazonaws.com/img/iea/3ROax9BKwv/rubiks-cube-white-cross.jpg" alt= "please check your internet connection"/>
+<h3> When you finish the cross, the white side should now look like the one shown above.</h3>
+<h3> There are no special algorithms for this as you are just taking the white edges and inserting them in their correct places.</h3>
+    </details>
+    <details>
+<summary><h1><b><u><i>2. CORRECTING THE PIECES ADJACANT TO THE WHITE CROSS
+</h1></b></u></i></summary>
+<h2>Now we will be trying get the two pieces adjacant to the white cross, on all the adjacant faces to white. The pieces I am talking about can be understood in the following picture.</h2>
+    <img src= "https://images.squarespace-cdn.com/content/v1/54f2df67e4b079e94c291e4f/1427442870331-Q2HNC7FV2FW894P2KEBP/cross+done+u+cross.png" alt= "please check your internet connection"/>
+<h3>The way we get those pieces into their place is done in a few steps:
+<ul type= "disc">
+    <li>First we keep the white cross onto the top face and focus on those two adjacant pieces on the adjacant face of the white cross.</li>
+    <li>Then we check if any of those pieces have been solved when we solved the white cross.</li>
+    <li>With respect of what is said on the previous point, any of it solved with the cross, then what we should look for is if any 2 of them are solved adjacant to each other. Ones solved with the cross that are opposite to each other, then just ignore it.</li>
+    <li>Another case is when the all those sides gets solved with the cross. If that happens, then all the steps following is not needed anymore in this section.</li>
+    <li>If none of the above has happened after the cross, then try turning the upper layer (containing the white cross) and see if anything solve. When you do so, any of the above cases should happen.</li>
+    <li>If still nothing works, that means that some of your cube pieces are twisted or the colors have been exhanged.</li></ul>
+<ul type= "square">
+    <li>If anything is twisted, then the cube can never be solved. To fix a twisted piece, you can just twist the piece back to the narmal position, (if you know whoch piece has been twisted). But if you do not know which one to twist back, you might have to dismantle the whole cube and put it back together, solved. To see how to dismantle and fix it back, take a look at the following video.</li></ul>
+<iframe width="713" height="401" src="https://www.youtube.com/embed/Ai9RDFA8zIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<ul type= "disc">
+    <li>So, back to where we stopped. When you get two of them solved, the other two will be swapped.</li>
+    <li>To swap it back into its original place, position one of the swapped faces to your right and one facing towards yourself.</li>
+    <li>Then perform this algorithm: "R- U- R U R-".</li></ul>
+<h3>With that, the two pieces adjacant to the white cross on the faces adjacant to the white face will be solved.</h3><br>
+<h2>If yoy still have any doubts on how to do that step, just watch this video:</h2>
+    <video width="300px" height="300px" controls="controls" alt= "please check your internet connection"/>
+      <source src="vid.mp4" type="video/mp4">
+    </video><br></details>
+    <details>
+<summary><h1><b><u><i>3. F2L (PART 1)</b></u></i></h1></summary>
+<h3>The F2L is the hardest, longest, but the most satisfying step in any method while solving a cube. And how a finished F2L looks like is shown in the picture below</h3>
+    <img src= "https://solvethecube.com/img/cubes/xxxxyxxxxxxxbbbbbbxxxrrrrrr.png" alt= "please check your internet connection"/><br>
+<ul type= "disc">
+    <li>The F2L is solved when we have the face with the cross(in this case, white) fully solved and the sides which we started solving in the previous step fully solved two layers up like the picture shown above.. So it is basically a step to finish off what we started in the previous step. Since this is the hardest step to understand, please pay attention to this part properly/.</li>
+    <li>The first step is to position the white face downwards.</li>
+    <li>Then pick any two of the four sides adjacant to that of the white face, and the sides you pick MUST BE ADJACANT TO EACH OTHER.</li>
+    <li>Now, locate the corner piece which contains the colors of the two side you just picked and white. So basically, the corner piece you should be looking for should have the color white, and the rwo colors you randomnly picked with a total of three colors on the corner piece.</li>
+    <li>Once you have found the corner piece you've been looking for, bring that corner piece right on top of the two colors you randomnly picked by rotating the up face.</li>
+    <li>Once you have it on top of those two colors you chose, perform the following algorithm how many ever time it takes for the white to insert itself in the corner white piece and the two colors on the corner piece allign correctly with the two colors you chose.</li>
+    <li>R U R- U-</li>
+    <li>Repeat this same step for all the four sides you started.</li>
+    <li>When you are done, your cube should now have the whote side fully solved and a flipped "T" on each of the adjacant sides to that of the white face.</li></ul>
+<h3>With that, we have now completed half of our "F2L" and it should now look like this when you you have the white side up</h3>
+    <img src= "https://images.squarespace-cdn.com/content/v1/54f2df67e4b079e94c291e4f/1427442888653-B00VUKUX4MWI37OBO9CY/step3_rubiks_cube" alt= "please check your internet connection"/>
+        </details>
+    <details>
+<summary><h1><b><u><i>F2L (PART 2)</b></u></i></h1></summary> 
+<h2>In this part, we will be completing the F2L stage and bringing the cube to a state I showed you at the starting of this stage. If you don't remember it, then here it is, again</h2>
+    <img src= "https://solvethecube.com/img/cubes/xxxxyxxxxxxxbbbbbbxxxrrrrrr.png" alt= "please check your internet connection"/>
+<ul type= "square">
+    <li>To do this part, reposition the white face to face the bottom of your cube, and when you do that, a flipped "T" should appear on all the faces adjacant to the white face.</li>
+    <li>Now choose randomnly choose two colors which has a flipped "t".</li>
+    <li>You will see that the edge piece between them is not correctly matched. That is the part we will be trying to fix in the F2L part two.</li>
+    <li>Turn the upper layer to see if there are any edge pieces that fit into the slot between the two colors with flipped "T" that you have chosen.</li>
+    <li>If you find the piece you are looking for, firstly look for the color on that piece that is facing you.</li>
+    <li>For instance, say, you picked the adjacant pair of orange and green.</li>
+    <li>Once you have seen that the slot between them is not matching, turn the upper layer to find the edge piece containing the orange and green colors.</li>
+    <li>Once you have located the piece, check which color is facing you.</li>
+    <li>For now, let's say that orange is facing you.rotate the upper layer and bring that piece to the orange face, matching the edge piece on top and the face.</li>
+    <li>Now see if other face in the pair which you chose is to the right or the left of the face you just matched the edge piece with.</li>
+    <li>If it is to the right, then go ahead and perform the following algorithm with the face with edge piece matched facing towards yourself: <b><i>U R U- R- U- F- U F</b></i>.</li>
+    <li>After you have performed that algorithm, the edge piece that earlier matched with the face should be inserted into the slot between those two flipped "T"s.</li>
+    <li>Another case is when the other face (the adjacent to the face with the edge is matched with) is on the left instead of the right.</li>
+    <li>When that happens just perform the same algorithm which is shown previously, but all the moves flipped!!. And that should look like: <b><u><i>U- L U L- U F U- F-</b></u></i></li>
+    <li>Here the letter "L" takes up the same function and turn of "R", but on the left side. For example, here "L" means the left side turned to the top instead of the right side. There's "L" is this algorithm as this is a much shorter way of inserting the edge piece into the slot if the other face is on your left side, and this is another version of the previous algorithm. So don't get confused by "L" here. It just means the function of "R" carried out on the left side.</li>
+    <li>If you repeat above process on all the four faces with the flipped "T", then you will have completed the stage of F2L.</li>
+</ul><br></details>
+    <details>
+<summary><h1><b><u><i>4. THE YELLOW SIDE</b></u></i></h1></summary>
+<ol type= "bullet">
+<h2>After you have finished the F2L, when you check the yellow side (the opposite face to that of which you started the cross with), 
+        you will have the any of these patterns":</h2>
+    <li>A "+"</li>
+    <li>A "-"</li>
+    <li>A "dot"</li>
+    <li>An "L" in in one of the corners</li>
+    </ol>
+<h3>If you get any if the above mentioned shapes on your yellow side, then under the following conditions, go ahead and perform the following algorithm:</h2>
+<ol type= "square">
+    <li>If you get an "L" on one of the corners, the position the "L" to form a "J" on the top left corner of the face, and perform tthe algorithm</li>
+    <li>If you get a line, position the line horizontally and perform the algorithm.</li>
+    <li>If you get a cross or a dot, you can position it anyway you like and perform the algorithm.</li>
+    <li>F R U R- U- F-</li>
+    </ol>
+<h2>If you get any of the shapes shown below, then perform the next algorithm shown below under certain circumstances:</h2>
+<ol type= "disc">
+    <li><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl53hjnGeicC0TAcP8wV6ua7rDijI4p4fxAg&usqp=CAU" class= "bigsize"/></li>
+    <li><img src= "http://www.solvemyrubikscube.com/images/step-6/case-d250.png"/></li>
+</ol>
+<h3>If at all you get the case shown in the first image, then, position the two unmatched colors facing towards you with the yellow side facing up and perform the following algorithm: R U R- U R U2 R-</h3>
+<h3>And if you get the case shown in the second image, position one of the unmatched pieces facing to the bottom right of the yellow face and perform the algorithm shown previously.</h3>
+<h2>Continue to do all the previous steps from the "THE YELLOW SIDE" till you get a "fish" like shape on the yellow side which should look something like the image shown below.</h2>
+    <img src= "https://miro.medium.com/max/1400/1*XGN3jNCW9abnBUh8rdIx6w.png" class= "bigsize" alt= "please check your internet connection"/><br></details>
+    <details>
+<summary><h2><b><u><i>THE "FISH"</b></u></i></h2></summary>
+<ul type= "disc">
+    <li>When you get the "fish" shape like shown above, position the tip of the fish's mouth pointed to the bottom left of the yellow side and perform the following algorithm: U2 R U2 R- U- R U- R-.</li>
+    <li>After performing the algorithm once or twice, the yellow side should be completed.</li>
+</ul></details>
+    <details>
+<summary><h1><b><u><i>THE REMAINING 4 SIDES</b></u></i></h1></summary>
+    <ul type= "disc">
+        <li>With both white and yellow solved, we will now be trying to solve the remaining 4 sides, as the heading of this section says.</li>
+        <li>Now the only part unsolved will be the upper layer "ring", as I call it.</li>
+        <li>To solve that, first look around the unsolved ring and see if you can find atleast one face with matching colors on either sides, but one unmatched one smack in the middle of the ring.</li>
+        <li>The only cases in this stage is that you will find either one face with the conditions mentioned above, or all of the faces satisfying those conditions, or even none, but never between them.</li>
+        <li>So if you do not find any face that meets the conditions above, position any of those four faces to your front and perform this algorithm: R- F R- B2 R F- R- B2 R2.</li>
+        <li>After you've performed it, there should now be atleast one face that meets the above conditions. When you locate that face, position that face opposite to you (back of the cube) and perform the same algorithm shown above.</li>
+        <li>You may have to perform it once or twice, but no more than that.</li>
+        <li>Once you have finished, you should now either have all four faces meeting the conditions told above, or three of them that meets those conditions and the fourth one solved.</li>
+        <li>If you have all four faces meeting the conditions, then perform the following algorithm with any of those four faces facing you: R U- R U R U R U- R- U- R2. </li>
+        <li>When you do so, you could have two cases. either your cube might fully be solved. or one of those four might get solved leaving three of them meeting those conditions.</li>
+        <li>If the cube gets solved, then the following steps are not needed.</li>
+        <li>But if one of them gets solved and the other three meets the conditions, then position the solved side to your back (the side opposite to yourself) and perform the previous algorithm: R U- R U R U R U- R- U- R2.</li>
+        <li>Ypu may have to repeat the algorithm twice, but after performing it, your cube should now officially be solved</li>
+</ul><br><br></details>
+    <div id= "footer">
+        <center>
+        <b><i><u><font color= "#FFF700"/>Copyright &copy; 2022 Aaron Vinu</b></i></u>
+            </center>
+        </div>
+    </div>
+    </div>
+<a onclick= "alert('HOPE U LEARNT TO SOLVE A REGULAR RUBIX CUBE OR SOMETHING ABOUT IT... BYE....')" href= "file:///home/chronos/u-474be2bd6f9d53847ceefe36aa6010e0f2c558c0/MyFiles/RONUS/notepad/html/programs/rubix%20cube/rubix%20cube%20feedback%20page.html"><button style= "border radius= 10px">I've learnt to solve the 3*3*3 rubiks cube</button></a>
+</body>
+</html>
