@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang= "en">
+<body>
+<head>
+    <meta name= "return" content= "feedback from user">
+    <meta charset= "UTF-8">
+<title>feedback page
+</title>
+    <style>
+        h2 {
+        font-family: Comic Sans MS;
+        font-weight: bold;
+        }
+        hr {
+        background-color: green;
+        border: none;
+        }
+        button{
+        width: 250px;
+        background: orange;
+        height: 50px;
+        border-radius: 125px;
+        }
+        .spclcrdts {
+        margin-left: 340px;
+        color: orange;
+        font-weight: bold:
+        }
+    </style>
+</head>
+<body background= "https://fc09.deviantart.net/fs70/f/2010/364/c/4/rubik__s_cube_dark_by_mangotangofox-d35zw0s.jpg" text= "ffff00">
+<hr>
+<h2> If you have any queries, please feel free to let us know in the area provided below </h2><br>
+<hr>
+<form>
+<textarea rows= "4" cols= "50" placeholder= "Queries"></textarea><br>
+<textarea rows= "4" cols= "50" placeholder= "any algorithms you want us to add to"></textarea><br><br>
+<hr>
+<h2>How was the quality of this website ?</h2><br>
+<hr>
+<input type= "radio" name= "feedback" value= "feedback">It was good, I loved it</input><br>
+<input type= "radio" name= "feedback" value= "feedback">It was "okay".. can improve</input><br><br>
+<hr>
+<h2>Rate this website from 1 to 10</h2><br>
+<hr>
+    <select name= "ratings" value= "ratings">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+        <option>7</option>
+        <option>8</option>
+        <option>9</option>
+        <option>10</option>
+    </select><br><br><hr>
+<a href= "file:///home/chronos/u-474be2bd6f9d53847ceefe36aa6010e0f2c558c0/MyFiles/RONUS/notepad/html/programs/rubix%20cube/rubix%20cube%20main%20home%20page.html"><button type= "button" style= "border-radius= '10px'"><h2><center>Back to Home</center></h2></a></button><br><br><br>
+    <div id= "footer">
+<center>
+<marquee direction= "up" class= "spclcrdts">
+    <h3>DONE BY: <b><u><i>AARON VINU</b></u></i></h3>
+    <h3>CSS STYLES IN REFERENCE TO: <a href= "https://www.w3schools.com/css/default.asp"><b><u><i>W3SCHOOLS</b></u></i></a></h3>
+    <h3>SPECIAL THANKS TO:</h3>
+    <h4><b><u><i>Mrs. Jo Gibson</b></u></i></h4>
+    <img src= "https://c.tenor.com/XRb5X2fopKEAAAAd/rubiks-cube.gif" alt="Rubiks Cube GIF - Rubiks Cube Feliks GIFs"/>
+    <h2>THANK YOU FOR USING MY WEBSITE</h2>
+    <b><i><u>Copyright &copy; 2022 Aaron Vinu</u></i></b>
+    </marquee>
+    </center>
+        </div>
+</body> 
+</html>
